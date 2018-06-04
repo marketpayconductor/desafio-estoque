@@ -43,6 +43,6 @@ Se você for aprovado nesta etapa, será convidado para uma entrevista final com
       1. Faça o fork do desafio;
       2. Desenvolva. Você terá 2 (dois) dias a partir da data do envio do desafio;
       3. Crie um arquivo de texto com a nomenclatura README.MD com a explicação de como devemos executar o projeto e com uma descrição do que foi feito;
-      4. Após concluir seu trabalho envie o que foi desenvolvido em um arquivo .zip para o e-mail dangellys.feitosa@conductor.com.br;
+      4. Após concluir seu trabalho envie o que foi desenvolvido em um arquivo .zip para o e-mail dangellys.feitosa@conductor.com.br e daniel.dorta@conductor.com.br;
       
 Desejamos boa sorte e que a força esteja com você!
